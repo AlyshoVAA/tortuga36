@@ -1,0 +1,952 @@
+Uri: http://тортуга36.рф/
+File Name: C:\Downloaded Web Sites\тортуга36.рф\index-1.htm
+Content Type: text/html
+
+Uri: http://тортуга36.рф/aboutbase
+File Name: C:\Downloaded Web Sites\тортуга36.рф\aboutbase-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/banya
+File Name: C:\Downloaded Web Sites\тортуга36.рф\banya-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/contact
+File Name: C:\Downloaded Web Sites\тортуга36.рф\contact-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/domiki
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domiki-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/domikkarasia
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikkarasia-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/domikon2
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikon2-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/domikoxotnika
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikoxotnika-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/domikrybaka
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikrybaka-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/domikwater
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikwater-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/galery
+File Name: C:\Downloaded Web Sites\тортуга36.рф\galery-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/page63950315.html
+File Name: C:\Downloaded Web Sites\тортуга36.рф\page63950315-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/page63969627.html
+File Name: C:\Downloaded Web Sites\тортуга36.рф\page63969627-1.html
+Content Type: text/html
+
+Uri: http://тортуга36.рф/page64019199.html
+File Name: C:\Downloaded Web Sites\тортуга36.рф\page64019199-1.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\тортуга36.рф\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Downloaded Web Sites\тортуга36.рф\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: C:\Downloaded Web Sites\тортуга36.рф\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Downloaded Web Sites\тортуга36.рф\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+File Name: C:\Downloaded Web Sites\тортуга36.рф\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Downloaded Web Sites\тортуга36.рф\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/107265296
+File Name: C:\Downloaded Web Sites\тортуга36.рф\watch\107265296
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\тортуга36.рф\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.com/tild3031-3461-4933-a336-643333663736/-/empty/_3.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3031-3461-4933-a336-643333663736\-\empty\_3.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3032-3737-4739-a233-356166613939/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3032-3737-4739-a233-356166613939\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3033-6230-4261-b436-353261316466/-/empty/____.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3033-6230-4261-b436-353261316466\-\empty\____.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3033-6636-4635-a331-626266333439/-/empty/__.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3033-6636-4635-a331-626266333439\-\empty\__.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3034-6365-4365-b230-373433326434/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3034-6365-4365-b230-373433326434\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3035-6337-4663-a332-666361366461/-/empty/20260303_1256_Image_.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3035-6337-4663-a332-666361366461\-\empty\20260303_1256_Image_.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3039-3231-4238-b530-393061393733/-/resizeb/20x/5.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3039-3231-4238-b530-393061393733\-\resizeb\20x\5.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3061-6164-4731-b361-303638393161/-/empty/__.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3061-6164-4731-b361-303638393161\-\empty\__.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3063-3631-4830-b331-316439363462/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3063-3631-4830-b331-316439363462\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3063-3965-4636-b065-383361326161/-/empty/photo_11_2025-05-22_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3063-3965-4636-b065-383361326161\-\empty\photo_11_2025-05-22_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3065-3161-4264-a635-313433363233/-/empty/13.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3065-3161-4264-a635-313433363233\-\empty\13.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3130-6530-4434-b831-383266303762/-/empty/9X18BqvPSgLcHJvF0LfK.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3130-6530-4434-b831-383266303762\-\empty\9X18BqvPSgLcHJvF0LfK.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3131-3237-4565-b564-303231343963/-/empty/4Zqt4TyUKsFNcakgqJQt.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3131-3237-4565-b564-303231343963\-\empty\4Zqt4TyUKsFNcakgqJQt.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3131-3733-4762-b230-303435396365/-/empty/6.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3131-3733-4762-b230-303435396365\-\empty\6.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3131-6231-4838-b035-306133356633/-/resizeb/20x/_100.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3131-6231-4838-b035-306133356633\-\resizeb\20x\_100.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3133-3238-4366-b633-343436306331/-/empty/_7.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3133-3238-4366-b633-343436306331\-\empty\_7.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3136-6666-4135-b333-366463333432/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3136-6666-4135-b333-366463333432\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3139-3830-4763-b866-333566326330/-/empty/IMG_20260601_010007.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3139-3830-4763-b866-333566326330\-\empty\IMG_20260601_010007.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3162-6663-4735-b034-353536373866/-/empty/_10.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3162-6663-4735-b034-353536373866\-\empty\_10.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3163-6330-4433-b932-326137386638/-/empty/_3.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3163-6330-4433-b932-326137386638\-\empty\_3.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3164-6566-4161-b438-636239386134/-/resizeb/20x/__.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3164-6566-4161-b438-636239386134\-\resizeb\20x\__.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3165-3937-4135-a462-346137666461/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3165-3937-4135-a462-346137666461\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3230-6332-4262-b435-386466373933/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3230-6332-4262-b435-386466373933\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3232-3637-4362-b636-333936343765/-/empty/_100.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3232-3637-4362-b636-333936343765\-\empty\_100.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3234-3530-4162-a666-383366623932/-/resizeb/20x/__8.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3234-3530-4162-a666-383366623932\-\resizeb\20x\__8.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3234-6135-4566-a334-393566376137/-/resizeb/20x/___.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3234-6135-4566-a334-393566376137\-\resizeb\20x\___.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3238-3838-4166-a637-656462386330/-/empty/_4.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3238-3838-4166-a637-656462386330\-\empty\_4.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3261-6130-4635-b162-353566383637/-/empty/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3261-6130-4635-b162-353566383637\-\empty\photo.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3261-6165-4435-a530-373837653234/-/empty/IMG_20260601_010404.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3261-6165-4435-a530-373837653234\-\empty\IMG_20260601_010404.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3263-6430-4638-b061-306266336235/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3263-6430-4638-b061-306266336235\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3264-6336-4263-b639-636661383530/-/empty/_12.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3264-6336-4263-b639-636661383530\-\empty\_12.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3330-3638-4831-b730-333333633631/-/empty/7.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3330-3638-4831-b730-333333633631\-\empty\7.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3333-6236-4266-b661-316634333862/-/empty/_17.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3333-6236-4266-b661-316634333862\-\empty\_17.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3336-3666-4437-a161-346161313332/-/empty/__2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3336-3666-4437-a161-346161313332\-\empty\__2.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3337-6238-4732-a232-616564663739/-/empty/20260301_2347_Image_.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3337-6238-4732-a232-616564663739\-\empty\20260301_2347_Image_.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3337-6238-4732-a232-616564663739/-/resizeb/20x/20260301_2347_Image_.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3337-6238-4732-a232-616564663739\-\resizeb\20x\20260301_2347_Image_.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3362-3935-4963-b864-373038663438/-/empty/__8.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3362-3935-4963-b864-373038663438\-\empty\__8.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3364-3330-4239-a338-373139353462/-/empty/_11.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3364-3330-4239-a338-373139353462\-\empty\_11.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3366-6633-4361-a435-333738633661/-/empty/_2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3366-6633-4361-a435-333738633661\-\empty\_2.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3430-6361-4638-a631-626362616365/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3430-6361-4638-a631-626362616365\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3430-6637-4630-b366-353339633733/-/empty/5.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3430-6637-4630-b366-353339633733\-\empty\5.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3431-3736-4433-b033-616234633065/-/empty/_23.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3431-3736-4433-b033-616234633065\-\empty\_23.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3432-3230-4737-b365-386535316433/-/empty/4.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3432-3230-4737-b365-386535316433\-\empty\4.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3433-3631-4233-b734-626235633662/-/empty/___.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3433-3631-4233-b734-626235633662\-\empty\___.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3433-6137-4139-b663-386661343732/-/empty/_14.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3433-6137-4139-b663-386661343732\-\empty\_14.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3434-3939-4162-b932-333132663266/-/empty/ezy5uYJVRvaoUpNHGYSd.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3434-3939-4162-b932-333132663266\-\empty\ezy5uYJVRvaoUpNHGYSd.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3438-3161-4939-a437-623062653662/-/empty/_3.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3438-3161-4939-a437-623062653662\-\empty\_3.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3438-3639-4965-b331-356539396433/-/empty/IMG_20260601_010017.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3438-3639-4965-b331-356539396433\-\empty\IMG_20260601_010017.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3462-3466-4937-b062-613834613362/-/empty/_3.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3462-3466-4937-b062-613834613362\-\empty\_3.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3465-6261-4437-b939-303262373530/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3465-6261-4437-b939-303262373530\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3533-3234-4561-a263-326338666564/-/empty/__.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3533-3234-4561-a263-326338666564\-\empty\__.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3533-3364-4337-b937-613762613165/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3533-3364-4337-b937-613762613165\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3533-3435-4462-b538-643734633931/-/empty/_231.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3533-3435-4462-b538-643734633931\-\empty\_231.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3534-3063-4237-b233-643436626362/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3534-3063-4237-b233-643436626362\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3534-6265-4763-b162-313365353265/-/resize/20x/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3534-6265-4763-b162-313365353265\-\resize\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3535-3163-4234-b232-366333656361/-/empty/_19.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3535-3163-4234-b232-366333656361\-\empty\_19.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3536-3963-4639-b433-333135383664/-/empty/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3536-3963-4639-b433-333135383664\-\empty\photo.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3537-3730-4135-b638-626234323235/-/resizeb/20x/_16.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3537-3730-4135-b638-626234323235\-\resizeb\20x\_16.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3538-3765-4661-b165-323766633032/-/empty/10.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3538-3765-4661-b165-323766633032\-\empty\10.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3561-6538-4033-a437-323263323535/-/empty/_21.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3561-6538-4033-a437-323263323535\-\empty\_21.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3563-3835-4235-a533-653335373932/-/empty/_16.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3563-3835-4235-a533-653335373932\-\empty\_16.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3563-3839-4237-a535-323065373663/-/empty/_4.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3563-3839-4237-a535-323065373663\-\empty\_4.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3630-3066-4134-b164-323930663836/-/empty/__.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3630-3066-4134-b164-323930663836\-\empty\__.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3633-3262-4264-b864-613961373233/-/empty/____.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3633-3262-4264-b864-613961373233\-\empty\____.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3634-3535-4832-a463-323230363535/-/empty/_8.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3634-3535-4832-a463-323230363535\-\empty\_8.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3635-3037-4132-b034-383239383065/-/empty/__.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3635-3037-4132-b034-383239383065\-\empty\__.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3638-3130-4032-b636-316539376264/-/empty/_2314.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3638-3130-4032-b636-316539376264\-\empty\_2314.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3639-6332-4331-b234-366332353365/-/resize/20x/__.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3639-6332-4331-b234-366332353365\-\resize\20x\__.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3661-3239-4531-a464-623763663834/-/empty/0TPBwLDIQJjAaxpxJGNm.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3661-3239-4531-a464-623763663834\-\empty\0TPBwLDIQJjAaxpxJGNm.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3661-3437-4864-a562-366339633162/-/empty/_8.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3661-3437-4864-a562-366339633162\-\empty\_8.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3731-3566-4733-b234-633836343937/-/empty/_15.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3731-3566-4733-b234-633836343937\-\empty\_15.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3731-3866-4535-a237-306236663436/-/empty/_12.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3731-3866-4535-a237-306236663436\-\empty\_12.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3732-3037-4462-b232-303234663738/-/empty/1.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3732-3037-4462-b232-303234663738\-\empty\1.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3732-6335-4333-a561-333861363838/-/empty/_17.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3732-6335-4333-a561-333861363838\-\empty\_17.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3735-3732-4438-a235-396262653464/-/resizeb/20x/6.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3735-3732-4438-a235-396262653464\-\resizeb\20x\6.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3735-6434-4135-b061-623661326230/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3735-6434-4135-b061-623661326230\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3736-3736-4338-b536-653432663131/-/empty/IMG_20260601_010341.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3736-3736-4338-b536-653432663131\-\empty\IMG_20260601_010341.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3737-6634-4232-b330-623534623761/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3737-6634-4232-b330-623534623761\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3738-6330-4733-b966-626636323233/-/resizeb/20x/_14.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3738-6330-4733-b966-626636323233\-\resizeb\20x\_14.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3738-6662-4832-b262-616536326338/-/empty/__9.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3738-6662-4832-b262-616536326338\-\empty\__9.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3739-3334-4761-a439-313465643063/-/resizeb/20x/_21.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3739-3334-4761-a439-313465643063\-\resizeb\20x\_21.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3739-6239-4764-b837-633363623935/-/resizeb/20x/4.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3739-6239-4764-b837-633363623935\-\resizeb\20x\4.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3739-6363-4665-b831-303361383135/-/empty/_28.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3739-6363-4665-b831-303361383135\-\empty\_28.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3761-6231-4465-b566-323235343161/-/resizeb/20x/____.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3761-6231-4465-b566-323235343161\-\resizeb\20x\____.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3761-6365-4630-b764-366435316235/-/empty/_11.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3761-6365-4630-b764-366435316235\-\empty\_11.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3763-3732-4536-b938-393335393038/-/empty/IMG_20260601_010003.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3763-3732-4536-b938-393335393038\-\empty\IMG_20260601_010003.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3763-6335-4165-b066-623735626365/-/empty/__5.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3763-6335-4165-b066-623735626365\-\empty\__5.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3764-6535-4564-b833-363539303163/-/resizeb/20x/1.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3764-6535-4564-b833-363539303163\-\resizeb\20x\1.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3765-3733-4837-a137-326634333039/-/empty/_6.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3765-3733-4837-a137-326634333039\-\empty\_6.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3831-3431-4664-b964-653630343539/-/empty/0eGeeclJZellNb_sjWMH.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3831-3431-4664-b964-653630343539\-\empty\0eGeeclJZellNb_sjWMH.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3832-6532-4830-a465-386432366534/-/resizeb/20x/__11.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3832-6532-4830-a465-386432366534\-\resizeb\20x\__11.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3833-3833-4737-b462-376339633232/-/empty/3.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3833-3833-4737-b462-376339633232\-\empty\3.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3834-3463-4635-a364-393234313936/-/empty/__.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3834-3463-4635-a364-393234313936\-\empty\__.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3834-6631-4064-b936-366134313462/-/empty/C.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3834-6631-4064-b936-366134313462\-\empty\C.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3835-3463-4235-a139-613665323465/-/empty/_16.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3835-3463-4235-a139-613665323465\-\empty\_16.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3835-6330-4333-a332-626237366437/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3835-6330-4333-a332-626237366437\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3836-6663-4739-b538-613266383961/-/empty/_13.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3836-6663-4739-b538-613266383961\-\empty\_13.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3838-6436-4233-a235-363864343661/-/resizeb/20x/__.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3838-6436-4233-a235-363864343661\-\resizeb\20x\__.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3861-3163-4064-b234-383862303934/-/empty/photo_2026-03-02_00-.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3861-3163-4064-b234-383862303934\-\empty\photo_2026-03-02_00-.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3861-3462-4462-b132-633265646431/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3861-3462-4462-b132-633265646431\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3862-6436-4161-b633-323838633362/-/empty/_13.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3862-6436-4161-b633-323838633362\-\empty\_13.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3864-3939-4666-b139-646231333363/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3864-3939-4666-b139-646231333363\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3930-3539-4437-b930-633365616265/-/empty/_2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3930-3539-4437-b930-633365616265\-\empty\_2.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3930-3830-4963-a433-643862356336/-/empty/IMG_20260601_010026.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3930-3830-4963-a433-643862356336\-\empty\IMG_20260601_010026.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3931-6162-4634-b839-653635336433/-/resizeb/20x/_2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3931-6162-4634-b839-653635336433\-\resizeb\20x\_2.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3933-3133-4263-a530-616630373363/-/empty/IMG_20260601_010357.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3933-3133-4263-a530-616630373363\-\empty\IMG_20260601_010357.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3933-3930-4137-b061-376566383436/-/empty/image-R8RLBh-SC-tran.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3933-3930-4137-b061-376566383436\-\empty\image-R8RLBh-SC-tran.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3939-3638-4333-a137-613165333533/-/empty/_12.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3939-3638-4333-a137-613165333533\-\empty\_12.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3939-3734-4363-b034-623637343032/-/resizeb/20x/__2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3939-3734-4363-b034-623637343032\-\resizeb\20x\__2.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3939-6231-4432-b863-356466636163/-/empty/_____.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3939-6231-4432-b863-356466636163\-\empty\_____.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3939-6564-4231-b565-376339396163/-/empty/_4.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3939-6564-4231-b565-376339396163\-\empty\_4.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3962-3661-4839-b733-663236663435/-/empty/__4.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3962-3661-4839-b733-663236663435\-\empty\__4.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3962-3935-4235-a633-363462306630/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3962-3935-4235-a633-363462306630\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3963-3038-4233-a131-616536623834/-/empty/HLzZkFUOFR4niSpepZsY.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3963-3038-4233-a131-616536623834\-\empty\HLzZkFUOFR4niSpepZsY.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3963-3938-4334-b964-306263306234/-/empty/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3963-3938-4334-b964-306263306234\-\empty\photo.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3963-3961-4463-b030-353666393331/-/empty/__.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3963-3961-4463-b030-353666393331\-\empty\__.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3966-6462-4538-b632-656532643763/-/empty/_2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild3966-6462-4538-b632-656532643763\-\empty\_2.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6130-3331-4538-a232-366464626536/-/empty/__.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6130-3331-4538-a232-366464626536\-\empty\__.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6130-3438-4533-b039-613930653262/-/empty/IMG_20260601_010346.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6130-3438-4533-b039-613930653262\-\empty\IMG_20260601_010346.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6130-6562-4239-b561-616235306138/-/empty/_6.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6130-6562-4239-b561-616235306138\-\empty\_6.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6132-3738-4736-b862-633539643962/-/empty/_22.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6132-3738-4736-b862-633539643962\-\empty\_22.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6134-3836-4362-b736-633137633964/-/empty/_14.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6134-3836-4362-b736-633137633964\-\empty\_14.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6134-6431-4334-b364-353866306265/-/empty/___.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6134-6431-4334-b364-353866306265\-\empty\___.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6136-3961-4539-b261-366332303330/-/resizeb/20x/__2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6136-3961-4539-b261-366332303330\-\resizeb\20x\__2.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6137-3762-4537-a666-663363656332/-/empty/_.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6137-3762-4537-a666-663363656332\-\empty\_.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6139-6566-4238-b534-353965656164/-/empty/FDr9xdbVe73T9m3iPB_p.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6139-6566-4238-b534-353965656164\-\empty\FDr9xdbVe73T9m3iPB_p.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6139-6638-4566-b834-323239653566/-/empty/____.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6139-6638-4566-b834-323239653566\-\empty\____.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6162-3864-4862-a234-666131373838/-/empty/3fqUHZab1lQVR-A1a5WJ.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6162-3864-4862-a234-666131373838\-\empty\3fqUHZab1lQVR-A1a5WJ.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6163-3132-4663-b464-383061346433/-/resizeb/20x/___.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6163-3132-4663-b464-383061346433\-\resizeb\20x\___.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6163-3563-4864-b935-336463663935/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6163-3563-4864-b935-336463663935\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6164-6235-4339-b561-303361656138/-/empty/2.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6164-6235-4339-b561-303361656138\-\empty\2.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6165-3334-4164-b863-656565373336/-/empty/8.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6165-3334-4164-b863-656565373336\-\empty\8.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6165-3763-4131-b735-613930316336/-/empty/20260303_1252_Image_.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6165-3763-4131-b735-613930316336\-\empty\20260303_1252_Image_.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6166-6262-4930-a662-616133353433/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6166-6262-4930-a662-616133353433\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6166-6339-4664-a337-333138376666/-/empty/1.jpeg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6166-6339-4664-a337-333138376666\-\empty\1.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6230-3961-4361-b262-303563363266/-/empty/IMG_20260601_010352.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6230-3961-4361-b262-303563363266\-\empty\IMG_20260601_010352.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6232-3431-4463-b735-623334343538/-/resizeb/20x/_2314.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6232-3431-4463-b735-623334343538\-\resizeb\20x\_2314.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6233-3663-4336-a233-373662333737/-/empty/11.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6233-3663-4336-a233-373662333737\-\empty\11.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6234-3363-4431-a161-386533323831/-/empty/__1_1.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6234-3363-4431-a161-386533323831\-\empty\__1_1.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6234-3531-4635-b631-396234646137/-/empty/_18.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6234-3531-4635-b631-396234646137\-\empty\_18.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6236-3862-4462-b864-336264633363/-/empty/hr-uzXBK9LrF8_JkhrS8.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6236-3862-4462-b864-336264633363\-\empty\hr-uzXBK9LrF8_JkhrS8.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6237-3437-4262-a532-623530663531/-/empty/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6237-3437-4262-a532-623530663531\-\empty\photo.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6261-3664-4738-a532-636265623530/-/resizeb/20x/__10.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6261-3664-4738-a532-636265623530\-\resizeb\20x\__10.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6263-6437-4737-b166-303035626636/-/empty/_25.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6263-6437-4737-b166-303035626636\-\empty\_25.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6264-3462-4537-a363-313331313036/-/empty/_8.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6264-3462-4537-a363-313331313036\-\empty\_8.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6265-6238-4161-b230-373836313333/-/empty/_2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6265-6238-4161-b230-373836313333\-\empty\_2.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6330-6266-4630-a363-376631373964/-/empty/_6.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6330-6266-4630-a363-376631373964\-\empty\_6.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6333-3239-4936-a465-333334616536/-/empty/IMG_20260601_005941.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6333-3239-4936-a465-333334616536\-\empty\IMG_20260601_005941.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6334-3537-4531-b566-376632303666/-/empty/_2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6334-3537-4531-b566-376632303666\-\empty\_2.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6334-3862-4133-a463-333434616532/-/empty/_5.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6334-3862-4133-a463-333434616532\-\empty\_5.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6335-3165-4431-b662-653735646161/-/resizeb/20x/__9.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6335-3165-4431-b662-653735646161\-\resizeb\20x\__9.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6336-6563-4861-b838-643539333331/-/empty/_7.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6336-6563-4861-b838-643539333331\-\empty\_7.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6338-3761-4262-b539-623466383834/-/resizeb/20x/_8.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6338-3761-4262-b539-623466383834\-\resizeb\20x\_8.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6338-6630-4531-a163-616533623235/-/empty/9.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6338-6630-4531-a163-616533623235\-\empty\9.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6339-3865-4463-b733-623238663337/-/empty/IMG_20260601_010349.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6339-3865-4463-b733-623238663337\-\empty\IMG_20260601_010349.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6361-3035-4039-b762-376138313334/-/empty/__2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6361-3035-4039-b762-376138313334\-\empty\__2.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6361-3864-4033-b264-373964363537/-/empty/_13.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6361-3864-4033-b264-373964363537\-\empty\_13.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6364-3562-4765-b735-373034326634/-/empty/_15.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6364-3562-4765-b735-373034326634\-\empty\_15.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6364-3832-4363-b531-643366343239/-/empty/__7.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6364-3832-4363-b531-643366343239\-\empty\__7.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6364-6263-4062-b237-323535363535/-/empty/IMG_20260601_010401.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6364-6263-4062-b237-323535363535\-\empty\IMG_20260601_010401.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6365-3230-4839-a661-346232383636/-/empty/photo_2026-03-02_00-.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6365-3230-4839-a661-346232383636\-\empty\photo_2026-03-02_00-.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6365-3239-4161-a237-666433643136/-/resizeb/20x/__5.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6365-3239-4161-a237-666433643136\-\resizeb\20x\__5.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6431-6662-4637-a236-613762363162/-/resize/20x/____.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6431-6662-4637-a236-613762363162\-\resize\20x\____.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6433-3166-4230-b661-616136636137/-/empty/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6433-3166-4230-b661-616136636137\-\empty\photo.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6433-3332-4436-b864-653961623935/-/empty/IMG_20260601_010407.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6433-3332-4436-b864-653961623935\-\empty\IMG_20260601_010407.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6439-3739-4437-b038-643563613632/-/empty/_9.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6439-3739-4437-b038-643563613632\-\empty\_9.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6461-3530-4533-b739-373839643266/-/empty/_26.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6461-3530-4533-b739-373839643266\-\empty\_26.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6464-3639-4339-a564-646465643931/-/empty/IMG_20260601_010354.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6464-3639-4339-a564-646465643931\-\empty\IMG_20260601_010354.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6464-6430-4666-b336-623535323535/-/empty/_20.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6464-6430-4666-b336-623535323535\-\empty\_20.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6466-3266-4665-b338-323962386430/-/empty/_5.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6466-3266-4665-b338-323962386430\-\empty\_5.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6466-6439-4264-b731-656637373266/-/empty/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6466-6439-4264-b731-656637373266\-\empty\photo.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6466-6661-4261-b266-373432356461/-/resizeb/20x/_4.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6466-6661-4261-b266-373432356461\-\resizeb\20x\_4.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6530-3033-4934-a132-356632353239/-/empty/_2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6530-3033-4934-a132-356632353239\-\empty\_2.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6530-3936-4565-a262-313163313065/-/empty/1.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6530-3936-4565-a262-313163313065\-\empty\1.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6530-6436-4265-b337-656437396530/-/empty/IMG_20260601_010000.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6530-6436-4265-b337-656437396530\-\empty\IMG_20260601_010000.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6532-6238-4561-b164-663838633964/-/empty/IMG_20260601_010009.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6532-6238-4561-b164-663838633964\-\empty\IMG_20260601_010009.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6533-3161-4939-b635-333834346439/-/empty/IMG_20260601_010021.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6533-3161-4939-b635-333834346439\-\empty\IMG_20260601_010021.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6533-3161-4939-b635-333834346439/-/resizeb/20x/IMG_20260601_010021.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6533-3161-4939-b635-333834346439\-\resizeb\20x\IMG_20260601_010021.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6533-6661-4764-b138-393730616663/-/empty/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6533-6661-4764-b138-393730616663\-\empty\photo.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6535-3766-4037-b138-333730366636/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6535-3766-4037-b138-333730366636\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6539-3161-4564-a130-393034643237/-/empty/_29.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6539-3161-4564-a130-393034643237\-\empty\_29.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6539-6537-4233-b337-623330393635/-/empty/_27.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6539-6537-4233-b337-623330393635\-\empty\_27.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6562-3037-4465-b062-396562373330/-/resizeb/20x/_2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6562-3037-4465-b062-396562373330\-\resizeb\20x\_2.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6563-3439-4139-b938-316562336538/-/empty/_____.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6563-3439-4139-b938-316562336538\-\empty\_____.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6564-3032-4131-a639-383231356439/-/resize/20x/__-2940.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6564-3032-4131-a639-383231356439\-\resize\20x\__-2940.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6564-3633-4462-a334-616536303931/-/empty/20260303_1429_Image_.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6564-3633-4462-a334-616536303931\-\empty\20260303_1429_Image_.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6565-3366-4430-a639-313137623830/-/resizeb/20x/__7.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6565-3366-4430-a639-313137623830\-\resizeb\20x\__7.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6630-3233-4064-a533-636661663037/-/resizeb/20x/__4.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6630-3233-4064-a533-636661663037\-\resizeb\20x\__4.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6630-3431-4633-b236-356661393065/-/empty/__2.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6630-3431-4633-b236-356661393065\-\empty\__2.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6633-6231-4637-b661-616435363964/-/resizeb/20x/__3.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6633-6231-4637-b661-616435363964\-\resizeb\20x\__3.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6633-6337-4234-b266-363439643337/-/empty/IMG_20260601_010014.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6633-6337-4234-b266-363439643337\-\empty\IMG_20260601_010014.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6633-6462-4239-a532-333761383134/-/resizeb/20x/2.jpeg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6633-6462-4239-a532-333761383134\-\resizeb\20x\2.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6634-6562-4961-b461-323938653837/-/empty/__10.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6634-6562-4961-b461-323938653837\-\empty\__10.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6634-6637-4864-b031-383234346261/-/empty/noroot.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6634-6637-4864-b031-383234346261\-\empty\noroot.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6635-3862-4362-a465-623762356430/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6635-3862-4362-a465-623762356430\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6635-6562-4938-b764-393363663065/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6635-6562-4938-b764-393363663065\-\empty\_.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6637-3634-4635-a335-646436313264/-/empty/_24.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6637-3634-4635-a335-646436313264\-\empty\_24.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6639-3030-4161-a532-656138343363/-/empty/IMG_20260601_010344.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6639-3030-4161-a532-656138343363\-\empty\IMG_20260601_010344.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6639-3030-4161-a532-656138343363/-/resizeb/20x/IMG_20260601_010344.png
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6639-3030-4161-a532-656138343363\-\resizeb\20x\IMG_20260601_010344.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6639-3230-4730-a633-396265383638/-/empty/_9.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6639-3230-4730-a633-396265383638\-\empty\_9.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6665-6532-4564-b964-313330323933/-/empty/_7.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6665-6532-4564-b964-313330323933\-\empty\_7.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6666-6563-4665-b466-336663376134/-/empty/_4.jpg
+File Name: C:\Downloaded Web Sites\тортуга36.рф\tild6666-6563-4665-b466-336663376134\-\empty\_4.jpg
+Content Type: image/png
+
+Uri: https://тортуга36.рф/
+File Name: C:\Downloaded Web Sites\тортуга36.рф\index.htm
+Content Type: text/html
+
+Uri: https://тортуга36.рф/aboutbase
+File Name: C:\Downloaded Web Sites\тортуга36.рф\aboutbase.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/banya
+File Name: C:\Downloaded Web Sites\тортуга36.рф\banya.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/contact
+File Name: C:\Downloaded Web Sites\тортуга36.рф\contact.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/domiki
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domiki.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/domikkarasia
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikkarasia.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/domikon2
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikon2.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/domikoxotnika
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikoxotnika.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/domikrybaka
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikrybaka.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/domikwater
+File Name: C:\Downloaded Web Sites\тортуга36.рф\domikwater.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/galery
+File Name: C:\Downloaded Web Sites\тортуга36.рф\galery.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/page63950315.html
+File Name: C:\Downloaded Web Sites\тортуга36.рф\page63950315.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/page63969627.html
+File Name: C:\Downloaded Web Sites\тортуга36.рф\page63969627.html
+Content Type: text/html
+
+Uri: https://тортуга36.рф/page64019199.html
+File Name: C:\Downloaded Web Sites\тортуга36.рф\page64019199.html
+Content Type: text/html
+
